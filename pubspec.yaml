@@ -1,0 +1,41 @@
+name: endangered_species
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.1 <4.0.0'
+
+dependencies:
+  audioplayers: ^6.0.0
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/Luffy.jpg
+    - assets/zoro.jpg
+    - assets/sanji.jpg
+    - assets/jimbei.jpg
+    - assets/ussop.jpg
+    - assets/franky.jpg
+    - assets/robin.jpg
+    - assets/brook.jpg
+    - assets/chopper.jpg
+    - assets/nami.jpg
+    - assets/luffy.mp3
+    - assets/zoro.mp3
+    - assets/sanji.mp3
+    - assets/jinbei.mp3
+    - assets/usopp.mp3
+    - assets/frankky.mp3
+    - assets/robin.mp3
+    - assets/brook.mp3
+    - assets/chopper.mp3
+    - assets/nami.mp3
